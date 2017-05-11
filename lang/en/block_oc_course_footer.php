@@ -13,10 +13,14 @@
 //
 // You should have received a copy of the GNU General Public License
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+
 /**
- * @package   block_oc_course_footer
- * @copyright 2015 oncampus
- * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ * Language file for block "badges"
+ *
+ * @package    block_badges
+ * @copyright  2012 onwards Totara Learning Solutions Ltd {@link http://www.totaralms.com/}
+ * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ * @author     Yuliya Bozhko <yuliya.bozhko@totaralms.com>
  */
 
 $string['pluginname'] = 'mooin footer';
@@ -24,6 +28,6 @@ $string['oc_course_footer:addinstance'] = 'Add a new footer block';
 $string['oc_course_footer:myaddinstance'] = 'Add a new footer block to My home';
 $string['edit_profile'] = 'Edit profile';
 $string['blocktitle'] = 'Blocktitle';
-$string['previous'] = 'Previous lection';
-$string['next'] = 'Next lection';
+$string['previous'] = 'Previous Lesson';
+$string['next'] = 'Next Lesson';
 $string['up'] = 'Up';

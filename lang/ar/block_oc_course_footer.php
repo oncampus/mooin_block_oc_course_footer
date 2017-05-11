@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 // This file is part of Moodle - http://moodle.org/
 //
 // Moodle is free software: you can redistribute it and/or modify
@@ -28,6 +28,6 @@ $string['oc_course_footer:addinstance'] = 'Neuen Footer-Block hinzufügen';
 $string['oc_course_footer:myaddinstance'] = 'Neuen Footer-Block auf meiner Startseite hinzufügen';
 $string['edit_profile'] = 'Profil bearbeiten';
 $string['blocktitle'] = 'Blocktitel';
-$string['previous'] = 'Vorherige Lektion';
-$string['next'] = 'Nächste Lektion';
-$string['up'] = 'Nach oben';
+$string['previous'] = 'الدرس السابق';
+$string['next'] = 'الدرس القادم';
+$string['up'] = 'الى الاعلى';
